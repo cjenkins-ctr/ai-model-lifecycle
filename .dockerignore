@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+*.db
+registry/
+checkpoints/
+.venv/
+venv/
+.env.example
+*.log
+.git/
+.github/
+tests/
+pytest.ini
